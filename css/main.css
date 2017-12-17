@@ -1,21 +1,21 @@
-.main{
-  font-family: Arial;
-  font-weight: bold;
+.main {
+	font-family: Arial;
+	font-weight: bold;
 }
 
-h1{
-	margin-left:15px;
+h1 {
+	margin-left: 15px;
 }
 
-.topic{
-	margin-left: 20px;
+.topic {
 	margin-top: 5px;
+	margin-left: 20px;
 }
 
-.subtopic{
+.subtopic {
 	margin-left: 30px;
 }
 
-.subtopic:before{
+.subtopic:before {
 	content: "> ";
 }
